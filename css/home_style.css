@@ -15,7 +15,7 @@
 .image img{
     height:500px;
 }
-@media screen and (max-width:1150px) {
+@media screen and (max-width:1200px) {
     .container{
         display:block;
     } 
