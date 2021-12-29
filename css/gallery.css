@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+.container img{
+    padding:5px;
+    border: #8267BE solid 2px ;
+}
+@media screen and (max-width:728px) {
+    .container {
+        flex-direction: column;
+        justify-content: space-around;
+        flex-wrap:wrap;
+    }
+    .container > img {
+        margin-bottom: 16px;
+    }
+}

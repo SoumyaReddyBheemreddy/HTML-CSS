@@ -1,0 +1,23 @@
+
+.container{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height:100vh;
+}
+.pro{
+    text-decoration: underline;
+}
+.introduction{
+    color:#676FA3;
+    text-align: center;
+}
+.image img{
+    height:500px;
+}
+@media screen and (max-width:800px) {
+    .container{
+        display:block;
+    } 
+    
+}
