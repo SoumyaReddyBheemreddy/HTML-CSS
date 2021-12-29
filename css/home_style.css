@@ -15,9 +15,9 @@
 .image img{
     height:500px;
 }
-@media screen and (max-width:800px) {
+@media screen and (max-width:1150px) {
     .container{
         display:block;
     } 
-    
+
 }
