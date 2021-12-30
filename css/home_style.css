@@ -3,7 +3,7 @@
     display: flex;
     justify-content:space-around;
     align-items: center;
-    height:100vh;
+    margin-top: 50px;
 }
 .pro{
     text-decoration: underline;
